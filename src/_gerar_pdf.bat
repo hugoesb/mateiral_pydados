@@ -1,0 +1,1 @@
+pdflatex "Introducao_ao_Python_para_Tratamento_de_Dados2.tex"
