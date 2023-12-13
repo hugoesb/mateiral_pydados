@@ -1,5 +1,7 @@
 # Material de apoio para Introdução a Python para Tratamento de dados
 
-O objetivo do material disponível é fazer uma introdução ao Python baseado em exemplos de código citando referências importantes na área de computação científica e tratamento de dados. A maioria das funções e bibliotecas citadas contam com link de páginas online com informações adicionais.
+O material faz uma introdução abrangente ao Python baseado em exemplos de código citando referências importantes na área de computação científica e análise de dados. Um dos pontos fortes do material são links das funções e pacotes citados para acesso a tutoriais, páginas oficiais dos pacotes, textos complementares e manuais possibilitando o aprofundamento sobre os conceitos citados. Este recurso de referência complementar amplia significativamente a capacidade dos usuários de explorar e internalizar o conhecimento apresentado. 
 
-Na pasta `dist` está disponível a versão PDF do material em sua última versão. Os arquivos utilizados para geração do material (arquivo ipynb, figuras, fontes de dados e scripts de tratamento) estão disponíveis na pasta `scr`. 
+São abordadas conceitos fundamentais como `ndarray` e `ufunc` do Numpy e utilização de cálculos com vetores de variáveis. Análise e tratamento de dados é abordada utilizando a biblioteca pandas. Na visualização de dados as bibliotecas utilizadas Matplotlib e Seaborn. 
+
+Para acesso à versão mais recente do material em formato PDF, basta consultar a pasta dist. Todos os arquivos empregados na geração desse material, incluindo o arquivo ipynb, figuras, fontes de dados e scripts de tratamento, estão disponíveis na pasta src. Esta organização facilita o acesso e a utilização de todos os recursos relacionados ao material apresentado. 
