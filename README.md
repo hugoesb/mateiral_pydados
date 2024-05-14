@@ -1,4 +1,4 @@
-# Material de apoio para Introdução a Python para Tratamento de dados
+# Material de apoio para Introdução ao Python para Tratamento de dados
 
 O material faz uma introdução abrangente ao Python baseado em exemplos de código citando referências importantes na área de computação científica e análise de dados. Um dos pontos fortes do material são links das funções e pacotes citados para acesso a tutoriais, páginas oficiais dos pacotes, textos complementares e manuais possibilitando o aprofundamento sobre os conceitos citados. Este recurso de referência complementar amplia significativamente a capacidade dos usuários de explorar e internalizar o conhecimento apresentado. 
 
